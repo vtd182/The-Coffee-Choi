@@ -35,7 +35,7 @@ function App() {
               }
             >
               <Route path="/" element={<DashBoard />} />
-              <Route path="/coffeeholic" element={<Coffeeholic />} />
+              <Route path="/coffeeholic/:id" element={<Coffeeholic />} />
               <Route path="/profile" element={<Profile />} />
               <Route path="/menu/:slug" element={<Menu />} />
               <Route path="/products/:slug" element={<Product />} />

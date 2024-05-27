@@ -23,7 +23,7 @@ const ProductList = () => {
       <div>
         <img
           className="rounded-xl"
-          src="https://file.hstatic.net/1000075078/file/noti_c106792cdcb744158f1b3e0c179cf6c4.jpg"
+          src="https://firebasestorage.googleapis.com/v0/b/foodorder-842d1.appspot.com/o/images%2Fhot.png?alt=media&token=d478baab-c6d5-4ad4-8226-f31ec7281325"
           alt=""
         />
       </div>

@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'home' : 'url(https://file.hstatic.net/1000075078/file/desktop_bg_350cd1de6f894c64825cd4d961866cb0.png)'
+        'home' : 'url(https://firebasestorage.googleapis.com/v0/b/foodorder-842d1.appspot.com/o/images%2Fscale.jpg?alt=media&token=6f0e707b-ef19-4533-9729-d038dcbe7658)'
       }
     },
   },
